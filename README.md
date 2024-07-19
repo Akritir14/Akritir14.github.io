@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi Everyone! My name is Akriti Rattu. Currently studying B.Tech in Electronics and Communication at Guru Nanak Dev Engineering College. i did my schooling from Army Public School, Bathinda Cantt till 10th and my class 12 from Saint Fateh Singh Convent School, Maur. 
 
-<!--
-**Akritir14/Akritir14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m currently learning C++ and Excel. 
+ 
+ My Hobbies are 
+ 1. Reading Books
+ 2. Listening to Music
+ 3. Doodling
+ 4. cooking
 
-Here are some ideas to get you started:
+you can connect with me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
